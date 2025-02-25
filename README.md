@@ -1,6 +1,6 @@
 What I learned
 
-JavaScript, HTML, and CSS. The Logo is based on my portfolio brand so I implemented zoom in down animation in JavaScript.
+JavaScript, HTML, and CSS. The Logo is based on my portfolio brand so I decided to use it for my business card by implementing animation in JavaScript.
 
 What I'm most proud of
 
