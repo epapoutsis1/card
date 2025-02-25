@@ -9,7 +9,8 @@ body {
     text-align:center;
     width: 300px;
     height: 300px;
-    margin: 0 auto;
+    margin: auto;
+    margin-top:200px;
 }
 
 .animation {
@@ -20,17 +21,23 @@ body {
     background-position: center;
 }
 
-
 .text {
     text-align:center;
-    margin-top:auto
+    margin-top:auto;
+    color:white;
+    font-family: sans-serif;
 }
 
-.h1 {
-  color:white;
-  font-family: sans-serif;
+.icons {
+  width:40px;
+  height:40px;
+  margin-top:60px;
+  display:flex;
+  margin:auto;
+  align-items:center;
+  box-sizing:border-box;
+  justify-content:space-between;
 }
-
 @keyframes zoomInDown {
   from {
     opacity: 0;
