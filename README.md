@@ -4,4 +4,4 @@ JavaScript, HTML, and CSS. I used illustrator to render my wireframes desk and m
 
 What I'm most proud of
 
-This was my first time using JavaScript. It pushed me out of my comfort zone to explore the different design elements like adding the animation to my logo. Transitioning from CSS to JavaScript was tough making it rewarding.
+This was my first time using JavaScript. It pushed me out of my comfort zone to explore the different design elements like adding the animation to my logo. Transitioning from CSS to JavaScript was tough making it a rewarding project.
