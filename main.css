@@ -34,7 +34,7 @@ body {
   margin-top:60px;
   display:flex;
   margin:auto;
-  align-items:center;
+  align-items:auto;
   box-sizing:border-box;
   justify-content:space-between;
 }
